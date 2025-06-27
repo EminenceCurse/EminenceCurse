@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Eren Yeager 
+# 👋 I'm Eren Yeager 
 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)  
 ![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png)
