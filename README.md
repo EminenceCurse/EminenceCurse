@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey there, I'm Eren Yeager 
 
-<!--
-**EminenceCurse/EminenceCurse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)  
+![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png)
 
-Here are some ideas to get you started:
+🎯 From Haryana, India  
+💻 Learning Python and AI  
+📚 Still a beginner, just a noob exploring the coding world  
+🚀 Trying to improve everyday!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies I'm Learning:
+
+- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) Python  
+- ![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png) Artificial Intelligence  
+- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) Git & GitHub  
+
+---
+
+### 📈 GitHub Stats
+
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=EminenceCurse&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+> Still building my digital presence... 😊
